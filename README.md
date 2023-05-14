@@ -1,4 +1,4 @@
-<h1 align="center">Hola soy Franco Daniel Fernandez</h1>
+<h1 align="center">Hola 👋, soy Franco Daniel Fernandez</h1>
 - 🔭 Actualmente estoy estudiando en [Instituto Nº93 93 Arturo Umberto Illia](https://isfdyt93-bue.infd.edu.ar/sitio/)
 
 - 🌱 Actualmente estoy aprendiendo **C#,SQL Server, HTML y CSS**

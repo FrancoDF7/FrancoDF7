@@ -3,8 +3,6 @@
 
 - 🌱 Actualmente estoy aprendiendo **C#,SQL Server, HTML y CSS**
 
-- 📫 Mi Email **francodanielfernandez1@yahoo.com.ar**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/francodaniel.fernandez.96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/francodaniel.fernandez.96/" height="30" width="40" /></a>

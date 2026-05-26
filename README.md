@@ -1,9 +1,6 @@
+<img width="1600" height="520" alt="github-header-banner" src="https://github.com/user-attachments/assets/b74b4c0e-561c-4714-aeba-2c3a20093577" />
 
-<h1 align="center"><b>Hola, soy Franco Fernandez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=80&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+.NET,;Conocimientos+en+base+de+datos,;Me+gusta+aprender+cosas+nuevas+..<3"></a>
-</p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4500&pause=1000&color=F70045&center=true&vCenter=true&width=435&lines=Bienvenido+a+mi+GitHub" alt="Typing SVG" /></a>
 <br>
 
 ## **About me**
